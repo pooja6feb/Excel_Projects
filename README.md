@@ -1,1 +1,1 @@
-# Super Store Sales Project, Excel
+# SuperStore Sales Project, Excel
